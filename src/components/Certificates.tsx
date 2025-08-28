@@ -4,7 +4,7 @@ import "./Certificates.css";
 const certificates = [
   {
     title: "Postman API",
-    description: "Mastered React hooks, context API, and performance optimization",
+    description: "Gained expertise in API testing, collection management, and automation using Postman",
     src: "/certificates/postman.png",
     color: "#a1775f",
   },
